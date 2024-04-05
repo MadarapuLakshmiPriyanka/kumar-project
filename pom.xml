@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.3</version>
+	<version>0.0.3-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.87.2.22:8081/repository/abhi/</url>
+	      <url>http://100.26.99.245:8081/repository/snap_repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
